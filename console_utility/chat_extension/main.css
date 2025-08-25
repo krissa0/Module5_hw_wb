@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', monospace;
+}
+
+input[type=text] {
+    width: 300px;
+    border: 1px solid white;
+    padding: 5px 10px;
+    color: white;
+    font-size: 16px;
+}
+
+button {
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+#subscribe {
+    color: white;
+    font-size: 14px;
+    font-family: 'Courier New', monospace;
+    margin-top: 20px;
+}
+
+#subscribe div {
+    white-space: pre-line;
+    margin-bottom: 5px;
+}
